@@ -1,0 +1,23 @@
+search_tweets_api_30day:
+  account_type: premium
+  endpoint: https://api.twitter.com/1.1/tweets/search/30day/dev.json
+  consumer_key: <REPLACE>
+  consumer_secret: <REPLACE>
+
+count_tweets_api_30day:
+  account_type: premium
+  endpoint: https://api.twitter.com/1.1/tweets/search/30day/dev/counts.json
+  consumer_key: <REPLACE>
+  consumer_secret: <REPLACE>
+
+search_tweets_api_fullarchive:
+  account_type: premium
+  endpoint: https://api.twitter.com/1.1/tweets/search/fullarchive/dev.json
+  consumer_key: <REPLACE>
+  consumer_secret: <REPLACE>
+
+count_tweets_api_fullarchive:
+  account_type: premium
+  endpoint: https://api.twitter.com/1.1/tweets/search/fullarchive/dev/counts.json
+  consumer_key: <REPLACE>
+  consumer_secret: <REPLACE>
